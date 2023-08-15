@@ -1,2 +1,2 @@
 # product-pricing-chatbot
-Vegetables and Fruits pricing ChatBot using Flask
+The chatbot is designed to assist users in obtaining real-time pricing information for different products commonly found in grocery stores. 
